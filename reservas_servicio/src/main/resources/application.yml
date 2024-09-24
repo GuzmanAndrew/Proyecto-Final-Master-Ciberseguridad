@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: reservas-servicio
+  datasource:
+    url: jdbc:mysql://mysql:3306/viajes
+    username: root
+    password: passwdroot
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+server:
+  port: 8002
