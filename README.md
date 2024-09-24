@@ -39,5 +39,5 @@ Para más detalles sobre el análisis de vulnerabilidades y los pasos para ejecu
 
 ---
 
-**Autor:** Andrew  
+**Autor:** Andrew Steeve Ramirez Guzman (Ar4mir3z)
 **Repositorio creado para:** Trabajo Final de Máster en Ciberseguridad
